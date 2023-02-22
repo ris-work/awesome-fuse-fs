@@ -37,6 +37,8 @@ today!
 
 ## Built On
 
+* [fuse-archive](https://github.com/google/fuse-archive) - About
+FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
 * [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file
   system for interacting with Google Cloud Storage. Language: Golang.
 * [sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File
