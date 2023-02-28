@@ -13,6 +13,10 @@ today!
 * [Posts](#posts)
 * [Misc](#misc)
 
+## File systems
+
+* [seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files.
+
 ## Libraries
 
 * [osxfuse](https://osxfuse.github.io) - For OSX. Language: C.
