@@ -17,6 +17,11 @@ today!
 
 * [seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files.
 
+### Kafka
+
+* https://github.com/tomheon/kafkafs
+* https://github.com/pehrs/kafkafs
+
 ## Libraries
 
 * [osxfuse](https://osxfuse.github.io) - For OSX. Language: C.
