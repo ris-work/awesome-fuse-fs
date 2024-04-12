@@ -96,6 +96,7 @@ content. Language: Golang.
 * [spotifile](https://github.com/catharsis/spotifile) - Filesystem for Spotify. Language: C
 * [ffmpegfs](https://github.com/nschlia/ffmpegfs) - filesystem which transcodes between audio and video formats on the fly. Language: C++
 * [id3fs](http://erislabs.net/ianb/projects/id3fs/) - browsable filesystem of your music files, organised into sub-directories by id3 tags
+* [DwarFS](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 
 ## Posts
 
