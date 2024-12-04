@@ -108,8 +108,9 @@ content. Language: Golang.
   FUSE](http://engineering.facile.it/blog/eng/write-filesystem-fuse)
 * [Develop your own filesystem with
   FUSE](http://www.ibm.com/developerworks/linux/library/l-fuse/)
-* [FUSE filesystems, part
-  1](http://zsiciarz.github.io/24daysofrust/book/day15.html)
+* FUSE filesystems (in Rust)
+  [part 1](https://zsiciarz.github.io/24daysofrust/book/vol1/day15.html)
+  [part 2](https://zsiciarz.github.io/24daysofrust/book/vol1/day16.html)
 * [Fuse- Filesystem in User
   space](http://www.slideshare.net/danny00076/fuse-filesystem-in-user-space)
 Slides with lot of implementation details.
