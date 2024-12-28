@@ -82,6 +82,9 @@ content. Language: Golang.
   Language: Go.
 * [πfs](https://github.com/philipl/pifs) - Filesystem that stores your data in π. Language: C.
 * [s3fs](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3. Language: C++.
+* [sqlitefs](https://github.com/narumatt/sqlitefs) - FUSE-based file system backed by SQLite3. Language: Rust.
+* [sqlitefs](https://github.com/ris-work/sqlitefs) - FUSE-based file system backed by SQLite3, with configurable synchronization options and support for FreeBSD and NetBSD. Language: Rust, TCL (test suite).
+* [sqlitefs_temporal](https://github.com/ris-work/sqlitefs_temporal) - FUSE-based monotemporal file system backed by SQLite3, with rewind capabilities and configurable synchronization options and support for FreeBSD and NetBSD. Language: Rust, TCL (test suite).
 
 ## Posts
 
